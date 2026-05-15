@@ -9,3 +9,6 @@ appsettings.Development.json
 node_modules/
 dist/
 .env
+
+bin 
+obj
