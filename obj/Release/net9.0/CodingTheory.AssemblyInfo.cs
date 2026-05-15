@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodingTheory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f8c74adea9f4c1fdc10788d31e92987c836663b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodingTheory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodingTheory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
