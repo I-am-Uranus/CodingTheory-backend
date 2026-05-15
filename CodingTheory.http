@@ -1,0 +1,6 @@
+@CodingTheory_HostAddress = http://localhost:5279
+
+GET {{CodingTheory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
